@@ -41,3 +41,4 @@ yarn-error.log*
 next-env.d.ts
 /svr/venv
 /svr/.env
+/svr/requirements.txt
